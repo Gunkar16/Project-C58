@@ -65,4 +65,9 @@ p{
     right: 30px;
     z-index:10 ;
 }
-
+html{
+    scroll-behavior: smooth;
+}
+#welcome{
+    font-family: 'Yellowtail', cursive;
+}
